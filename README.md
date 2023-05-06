@@ -1,27 +1,10 @@
 # Word-Game-Story-Generator
-This program generates short stories by prompting the user for adjectives, nouns, verbs, and places. It offers the option to either choose words from a word bank or input your own words. The stories are generated based on pre-existing templates and saved to a file.
+Looking for a fun way to unleash your creativity and imagination? Look no further than Mad Libs!
 
-Prerequisites
-C++11 or later
-Getting Started
-Clone the repository
-bash
-Copy code
-git clone https://github.com/<USERNAME>/word-game-story-generator.git
-Compile the program
-css
-Copy code
-g++ main.cpp -o main
-Run the program
-bash
-Copy code
-./main
-How to Use
-After running the program, choose the type of story you want to generate (comedy, mystery, romance, or horror)
-For each prompt, choose to either use words from the word bank or input your own words
-After all the prompts have been answered, the story will be displayed and saved to a file
-Contributing
-Contributions to this project are welcome! If you find any bugs or have any feature requests, please open an issue or submit a pull request.
+Mad Libs is a hilarious game where players fill in the blanks of a pre-written story with their own words, resulting in a hilarious and often nonsensical tale. And now, you can create your very own Mad Libs stories with our custom C++ program!
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+With our Mad Libs program, you have the power to create stories in a variety of genres, including comedy, mystery, romance, and horror. Simply choose your genre, fill in the blanks with your own words or select from our built-in word bank, and watch as your story comes to life before your very eyes.
+
+Our program is designed with user-friendliness in mind, with easy-to-use prompts and intuitive controls. You don't need to be a computer whiz to create your own Mad Libs story – just let your imagination run wild!
+
+So what are you waiting for? Download our Mad Libs program today and let your creativity soar!
